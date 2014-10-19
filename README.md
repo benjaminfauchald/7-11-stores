@@ -9,4 +9,16 @@ Happy coding!
 
 It would be nice with some credits, but none is required.
 Please contribute to the open source community so we can all benefit and combat the monster that is Thai digital payment
+
+
+We are always looking for taented coders and designers. If you are like us and want to further help the thai startupscene by open sourcing software as we progress to benefit the industry as a whole, please consider joining our awesome team! Contact benjamin@tdm-thailand or just PM me on Facebook (BEnjamin Fauchald) Even if you are an expert programmer or just starting out we would love to hear from you as we train peopole in technology in intern positions as well. No formal degrees required!
  
+
+
+
+
+ Someone asked how to use this JSON in PHP, easiest wa is to import the data into a postgres JSON native column and decode with builtin parser.
+ Here is a link to a JSON tutorial for PHP: http://www.youtube.com/watch?v=Ua8oqm_HBSY
+
+
+ Any questions or problems you want solved, please contact us at the address above! Let`s GetStuffDone!
