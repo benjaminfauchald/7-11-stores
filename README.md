@@ -11,7 +11,7 @@ It would be nice with some credits, but none is required.
 Please contribute to the open source community so we can all benefit and combat the monster that is Thai digital payment
 
 
-We are always looking for taented coders and designers. If you are like us and want to further help the Thai startupscene by open sourcing software as we progress to benefit the industry as a whole, please consider joining our awesome team! Contact benjamin@connectica.no or just PM me on Facebook (Benjamin Fauchald) Even if you are an expert programmer or just starting out we would love to hear from you as we train peple in technology in intern positions as well. No formal degrees required!
+We are always looking for talented coders and designers. If you are like us and want to further help the Thai startup scene by open sourcing software as we progress to benefit the industry as a whole, please consider joining our awesome team! Contact benjamin@connectica.no or just PM me on Facebook (Benjamin Fauchald) Even if you are an expert programmer or just starting out we would love to hear from you as we train peple in technology in intern positions as well. No formal degrees required!
  
 
 
